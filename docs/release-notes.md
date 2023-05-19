@@ -1,6 +1,10 @@
 # Release notes index
 
+<<<<<<< HEAD
 * [Percona Distribution for PostgreSQL 14.7 Update](release-notes-v14.7.upd.md) (2023-05-22)
+=======
+* [Percona Distribution for PostgreSQL 14.8](release-notes-v14.7.md) (2023-06-29)
+>>>>>>> DISTPG-582 Release notes 14.8
 
 * [Percona Distribution for PostgreSQL 14.7](release-notes-v14.7.md) (2023-02-23)
 
